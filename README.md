@@ -1,5 +1,12 @@
-# Learn-Python-Programming
+<img src="" width="1920px"/>
 
-## My simple rules in this repository
+<br/>
 
-### 1. Do not use an IDE while learning python
+# 👇 My simple rules in this repository
+
+<br/>
+
+## 🧘 Do not use an IDE while learning python if you are a beginner
+<details><summary>🗒 Note<summary/>
+
+</details>
