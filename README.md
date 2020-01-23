@@ -8,9 +8,9 @@
 
 <details>
     <summary>
-        ▶️ Note
+        It may not be the best idea to be using an IDE...
     </summary>
-        It may not be the best idea to be using an IDE. Relying on an IDE means that you can’t work with new programming languages until some company decides to sell you an IDE for that language. This means you can’t use that new language until the language is large enough to justify a lucrative customer base. If you are confident you can work with only a programmer’s text editor (like Vim, Emacs, Atom, etc.) then you don’t have to wait for a third party. IDEs are nice in some situations (such as working with a giant existing code base) but being addicted to them will limit your future. You should also not use IDLE. It has serious limitations in how it works and isn’t a very good piece of software. All you need is a simple text editor, a shell, and Python.
+        Relying on an IDE means that you can’t work with new programming languages until some company decides to sell you an IDE for that language. This means you can’t use that new language until the language is large enough to justify a lucrative customer base. If you are confident you can work with only a programmer’s text editor (like Vim, Emacs, Atom, etc.) then you don’t have to wait for a third party. IDEs are nice in some situations (such as working with a giant existing code base) but being addicted to them will limit your future. You should also not use IDLE. It has serious limitations in how it works and isn’t a very good piece of software. All you need is a simple text editor, a shell, and Python.
 </details>
 
 <br></br>
@@ -19,9 +19,9 @@
 
 <details>
     <summary>
-        ▶️ Note
+        You must type each of these exercises in, manually...
     </summary>
-        You must type each of these exercises in, manually. If you copy-paste, you might as well not even do them. The point of these exercises is to train your hands, your brain, and your mind in how to read, write, and see code. If you copy-paste, you are cheating yourself out of the effectiveness of the lessons.
+        If you copy-paste, you might as well not even do them. The point of these exercises is to train your hands, your brain, and your mind in how to read, write, and see code. If you copy-paste, you are cheating yourself out of the effectiveness of the lessons.
 </details>
 
 <br></br>
@@ -30,9 +30,9 @@
 
 <details>
     <summary>
-        ▶️ Note
+        Repetitive practice is natural and just how to learn something...
     </summary>
-        Repetitive practice is natural and just how to learn something. I know that to get good at anything I have to practice every day, even if I suck that day (which is often) or it’s difficult. Keep trying, and eventually it’ll be easier and fun. If you give up, you won’t ever reach this point. You will hit the first confusing thing (which is everything at first) and then stop. If you keep trying, keep typing it in, keep trying to understand it and reading about it, you will eventually get it.
+        I know that to get good at anything I have to practice every day, even if I suck that day (which is often) or it’s difficult. Keep trying, and eventually it’ll be easier and fun. If you give up, you won’t ever reach this point. You will hit the first confusing thing (which is everything at first) and then stop. If you keep trying, keep typing it in, keep trying to understand it and reading about it, you will eventually get it.
 </details>
 
 <br></br>
