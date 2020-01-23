@@ -1,7 +1,5 @@
 <img src="/assets/learn-python-programming-logo.png" width="1920px"/>
 
-<br/>
-
 # 👇 My simple rules in this repository
 
 <br/>
