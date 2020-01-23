@@ -1,10 +1,12 @@
 <img src="/assets/learn-python-programming-logo.png" width="1920px"/>
 
+<br></br>
+
 # 👇 My Simple Rules in This Repository
 
 <br></br>
 
-## 🧘 Do Not Use an IDE while Learning Python 
+## 1. 🙀 Do Not Use an IDE while Learning Python 
 
 <details>
     <summary>
@@ -15,7 +17,7 @@
 
 <br></br>
 
-## 🤔 Do Not Copy-Paste
+## 2. 🤔 Do Not Copy-Paste
 
 <details>
     <summary>
@@ -26,7 +28,7 @@
 
 <br></br>
 
-## 👍 Practice and Persistence
+## 3. 📈 Practice and Persistence
 
 <details>
     <summary>
