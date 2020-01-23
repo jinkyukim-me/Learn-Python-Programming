@@ -1,4 +1,4 @@
-<img src="" width="1920px"/>
+<img src="/assets/learn-python-programming-logo.png" width="1920px"/>
 
 <br/>
 
