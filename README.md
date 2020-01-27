@@ -42,7 +42,7 @@
 ## `Table of Contents`
 
 #### [`Exercise 0: The Setup`]()
-#### [`Exercise 1: A Good First Program`]()
+#### [`Exercise 1: A Good First Program`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex1.py)
 #### [`Exercise 2: Comments and Pound`]()
 #### [`Exercise 3: Numbers and Math`]()
 #### [`Exercise 4: Variables and Names`]()
