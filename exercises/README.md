@@ -30,3 +30,7 @@
 #### [`Exercise 25: Even More Practice`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex25.py)
 #### [`Exercise 26: Congratulations, Take a Test!`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex26.py)
 #### [`Exercise 27: Memorizing Logic`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex27.py)
+#### [`Exercise 28: Boolean Practice`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex28.py)
+#### [`Exercise 29: What if`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex29.py)
+#### [`Exercise 30: Else and If`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex30.py)
+#### [`Exercise 31: Making Decisions`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex31.py)
