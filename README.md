@@ -1,4 +1,4 @@
-<img src="/assets/learn-python-programming-logo.png" width="1920px"/>
+<img src="/assets/learn-python-programming-logo.png" width="800px"/>
 
 # 👇 My Simple Rules in This Repository
 
