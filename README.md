@@ -17,9 +17,12 @@
 
 ## 목차
 
-### [1. Python Programming Excercise](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises)
+### [1. Python Programming Exercise](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises)
 - 직접 하나하나 코드를 따라서 입력해보고 실행해보길 추천드립니다. 
-- `reference` -> 『Learn PYTHON 3 the HARD WAY』(ZED A. SHAW) [구매정보](https://www.amazon.com/Learn-Python-Hard-Way-Introduction-ebook-dp-B07378P8W6/dp/B07378P8W6/ref=mt_kindle?_encoding=UTF8&me=&qid=1581525354)
+- `reference` -> 『Learn PYTHON 3 the HARD WAY』 [구매정보](https://www.amazon.com/Learn-Python-Hard-Way-Introduction-ebook-dp-B07378P8W6/dp/B07378P8W6/ref=mt_kindle?_encoding=UTF8&me=&qid=1581525354)
 
-### [2. Python Programming Excercise Extended](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises-extended)
-- `reference` -> 『파이썬 정복』(김상형 지음) [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=13458175)
+### [2. Python Programming Exercise Extended](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises-extended)
+- `reference` -> 『파이썬 정복』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=13458175)
+
+## [3. Python Programming Exercise Pythonic]()
+- `reference`-> 『Introducing Python』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=9899038)
