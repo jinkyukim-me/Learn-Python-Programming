@@ -43,3 +43,7 @@
 #### [`Exercise 38: Doing Things to Lists`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex38.py)
 #### [`Exercise 39: Dictionaries, Oh Lovely Dictionaries`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex39.py)
 #### [`Exercise 40: Modules, Classes, and Objects`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex40.py)
+#### [`Exercise 41: Learng to Speak Object-Oriented`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex41.py)
+#### [`Exercise 42: Is-A, Has-A, Object,and Classes`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex42.py)
+#### [`Exercise 43: Basic Onject-Oriented Analysis and Design`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex43.py)
+#### [`Exercise 44: Inheritance versus Composition`](https://github.com/jinkyukim-me/Learn-Python-Programming/blob/master/exercises/ex44.py)
