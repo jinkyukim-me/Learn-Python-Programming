@@ -39,3 +39,42 @@ print("sum =", sum)
 for a in range(5):
     print("이 문장을 반복합니다.")
 
+# ruler
+for x in range(1, 51):
+    if (x % 10 == 0):
+        print('+', end= '')
+    else:
+        print('-', end= '')
+print()
+
+# ruler2
+for x in range(1, 51):
+    if (x % 10):
+        print('-', end= '')
+    else:
+        print('+', end= '')
+print()
+
+# ruler3
+for x in range(1, 6):
+    print('-' * 9, end='')
+    print('+', end= '')
+print()
+
+# ruler4
+x = 1
+while x < 51:
+    if (x % 10):
+        print('-', end='')
+    else:
+        print('+', end='')
+    x += 1
+print()
+
+# ruler5
+for x in range(1, 51):
+    if (x % 5):
+        print('-', end='')
+    else:
+        print('+', end='')    
+print()
