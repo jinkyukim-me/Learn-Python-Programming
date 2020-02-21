@@ -78,3 +78,19 @@ for x in range(1, 51):
     else:
         print('+', end='')    
 print()
+
+# break
+score = [92, 86, 68, 120, 56]
+for s in score:
+    if (s < 0 or s > 100):
+        break
+    print(s)
+print("성적 처리 끝")
+
+# continue
+socre = [92, 86, 68, -1, 56]
+for s in score:
+    if (s == -1):
+        continue
+    print(s)
+print("성적 처리 끝")
