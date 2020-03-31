@@ -24,7 +24,5 @@
 ### [2. Python Programming Exercise Extended](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises-extended)
 - `reference` -> 『파이썬 정복』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=13458175)
 
-## [3. Python Programming Exercise Pythonic]()
-- `reference`-> 『Introducing Python』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=9899038)
 
 
