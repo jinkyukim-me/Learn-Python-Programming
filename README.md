@@ -27,5 +27,4 @@
 ## [3. Python Programming Exercise Pythonic]()
 - `reference`-> 『Introducing Python』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=9899038)
 
-## [4. ]()
 
