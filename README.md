@@ -8,10 +8,6 @@
 
 코드를 따라가다보면 기초 개념부터 응용까지 연습해보실 수 있을 겁니다. 
 
-매일매일 업데이트 하도록 노력하겠으니, 
-
-많이 참고해 주시면 감사하겠습니다.
-
 ## 요구사항
 * `python -> 3.6.10`
 
@@ -24,8 +20,5 @@
 ### [2. Python Programming Exercise Extended](https://github.com/jinkyukim-me/Learn-Python-Programming/tree/master/exercises-extended)
 - `reference` -> 『파이썬 정복』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=13458175)
 
-## [3. Python Programming Exercise Pythonic]()
-- `reference`-> 『Introducing Python』 [구매정보](https://book.naver.com/bookdb/book_detail.nhn?bid=9899038)
 
-## [4. ]()
 
